@@ -14,7 +14,7 @@ a {
 /* Navigation Bar */
 
 nav {
-  background-color: midnightblue;
+  background-color: crimson;
 }
 
 nav li {
@@ -47,7 +47,7 @@ nav li:first-child {
 
 #banner {
   height: 500px;
-  background-image: url('https://s3.amazonaws.com/codecademy-content/projects/adoptly/bg.jpg');
+  background-image: url('http://www-static3.spulsecdn.net/pics/00/02/95/12/2951291_1_L.jpg');
   background-size: cover;
   background-position: center;
 }
