@@ -76,6 +76,7 @@ nav li:first-child {
   display: flex;
   justify-content: center;
   padding: 60px 30px;
+  font-color: white;
 }
 
 .feature {
